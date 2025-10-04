@@ -18,11 +18,12 @@ I definetely used AI as a "teacher" or "guide" of sorts, or to grade my code as 
 I used Claude for this.
 I used ChatGPT for project ideas.
 The insights from the google forms link will be recorded and this information will be used to build upon this project eg. collecting insights, mapping data, ML for predictive models in future
-You are most welcome to run this locally, the code is avalable.
+You are most welcome to run this locally, the code is available.
 Python 3 to be installed.
 Phoenix Code editor (opt)
 Set up your path properly
 Download the py and txt file
 Run via command line
 
-This is a small project to showcase progress and skill. That's all. I figure the fastest way to learn would be publically and that will hold me accountable. 
+
+This is a small project to showcase progress and skill. That's all. I figure the fastest way to learn would be publically and that will hold me accountable to learning and doing more.
